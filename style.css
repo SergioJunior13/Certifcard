@@ -119,7 +119,7 @@ ul {
 }
 
 li {
-	width: max-content;
+	width: fit-content;
 }
 
 /*Modo Dark*/
@@ -172,13 +172,13 @@ li {
 
 @media (max-width: 400px) {
 	.perfil-foto {
-		max-height: 120px;
+		max-height: 100px;
 	}
 	.titulo h1 {
-		font-size: 25px;
+		font-size: 20px;
 	}
 	.titulo h3 {
-		font-size: 18px;
+		font-size: 15px;
 	}
 	.projetos a img {
 		width: 200px;

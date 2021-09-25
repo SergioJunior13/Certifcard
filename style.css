@@ -56,9 +56,11 @@ body {
 	font-weight: 700;
 	font-size: 36px;
 	width: max-content;
+	margin-bottom: 5px;
 }
 
 .titulo h3 {
+	margin-top: 0;
 	font-weight: 400;
 	font-size: 24px;
 }
